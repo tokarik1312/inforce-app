@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "image": "https://maserati.scene7.com/is/image/maserati/maserati/international/Models/default/2023/grecale/gr_front.png?$600x2000$&fmt=png-alpha&fit=constrain",
+      "name": "Grecale",
+      "count": "5",
+      "width1": "500",
+      "height1": "500",
+      "weight": "1000",
+      "comment": "Embrace innovation, move forward, let exceptional enter your everyday with the all-new SUV.",
+      "id": 1
+    },
+    {
+      "image": "https://maserati.scene7.com/is/image/maserati/maserati/international/Models/default/2022/ghibli/gh_front.png?$600x2000$&fmt=png-alpha&fit=constrain",
+      "name": "Ghibli",
+      "count": "3",
+      "width1": "600",
+      "height1": "400",
+      "weight": "1200",
+      "comment": "A masterful combination of style, power, sporty handling and comfort.",
+      "id": 2
+    },
+    {
+      "image": "https://maserati.scene7.com/is/image/maserati/maserati/international/Models/default/2022/levante/lv_front.png?$600x2000$&fmt=png-alpha&fit=constrain",
+      "name": "Levante",
+      "count": "7",
+      "width1": "550",
+      "height1": "400",
+      "weight": "800",
+      "comment": "The ultimate combination of leading on-road performance and off-road capabilities.",
+      "id": 3
+    },
+    {
+      "image": "https://maserati.scene7.com/is/image/maserati/maserati/international/Models/default/2022/quattroporte/qp_front.png?$600x2000$&fmt=png-alpha&fit=constrain",
+      "name": "Quattroporte",
+      "count": "8",
+      "width1": "634",
+      "height1": "513",
+      "weight": "700",
+      "comment": "A captivating blend of sophisticated performance and superlative luxury.",
+      "id": 4
+    },
+    {
+      "image": "https://maserati.scene7.com/is/image/maserati/maserati/international/Models/default/2021/mc20/MC20_front.png?$600x2000$&fmt=png-alpha&fit=constrain",
+      "name": "MC20",
+      "count": "3",
+      "width1": "657",
+      "height1": "386",
+      "weight": "700",
+      "comment": "The Maserati Super Sports Car that pushes the boundaries of time.",
+      "id": 5
+    }
+  ]
+}
